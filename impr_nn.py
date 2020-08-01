@@ -1,8 +1,7 @@
 ###########################
-# Image Processing ex5
+# Image Processing NN Project
 # Neural Networks
 # Written by Eldar Hacohen
-# eldarh, 311587661
 ##########################
 import os
 import glob
